@@ -8,13 +8,13 @@
 
 ## D22: Site Split — Cleaning-Only Repo from NORTH-SHORE-PAINTING
 
-**Decision:** Create the NORTH-SHORE-CLEANING repo by forking from NORTH-SHORE-PAINTING (which was itself forked from NORTH-SHORE-TILING, which was forked from NORTH-SHORE-PROJECTS), then adapting all content for cleaning services at `northshorecleaning.com.au`.
+**Decision:** Create the NORTH-SHORE-CLEANING repo by forking from NORTH-SHORE-PAINTING (which was itself forked from NORTH-SHORE-TILING, which was forked from NORTH-SHORE-PROJECTS), then adapting all content for cleaning services at `northshorecleans.com.au`.
 
 **What changed:**
 - Forked NORTH-SHORE-PAINTING into NORTH-SHORE-CLEANING with fresh git history
 - Created new cleaning homepage (index.html) with 6 cleaning services (house, end of lease, office, carpet, window, spring cleaning), trust bar, FAQ, and gallery placeholders
 - Accent colour changed from warm orange (#E07B39) to teal (#2A9D8F) in CSS variables
-- Domain: northshorepainting.com.au → northshorecleaning.com.au across all files
+- Domain: northshorepainting.com.au → northshorecleans.com.au across all files
 - Branding: "North Shore Painting" → "North Shore Cleaning"
 - Email: northshorepainting@gmail.com → northshorecleaning@gmail.com
 - Logo: NSPAINTLOGO-HD-FINAL.png → NSCLOGO-HD-FINAL.png

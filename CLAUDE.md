@@ -5,7 +5,7 @@
 
 ## Business
 - **Name:** North Shore Cleaning
-- **Domain:** https://northshorecleaning.com.au
+- **Domain:** https://northshorecleans.com.au
 - **Service:** Cleaning (primary). Redirect pages link to sister sites for Tiling, Painting, and Removals.
 - **Area:** North Shore Sydney, NSW, Australia
 - **Phone:** 0433 333 332

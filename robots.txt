@@ -3,4 +3,4 @@ Allow: /
 Disallow: /api/
 Disallow: /landing/
 
-Sitemap: https://northshorecleaning.com.au/sitemap.xml
+Sitemap: https://northshorecleans.com.au/sitemap.xml

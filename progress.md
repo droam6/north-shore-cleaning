@@ -11,7 +11,7 @@
 | Forked from NORTH-SHORE-PAINTING | Done | Clean copy, fresh git init |
 | Cleaning homepage created | Done | New index.html with 6 cleaning services, trust bar, FAQ, gallery placeholders |
 | Accent colour: teal #2A9D8F | Done | CSS variables updated from orange #E07B39 |
-| Domain: northshorecleaning.com.au | Done | All canonical, OG, JSON-LD URLs updated |
+| Domain: northshorecleans.com.au | Done | All canonical, OG, JSON-LD URLs updated |
 | Branding: North Shore Cleaning | Done | Nav, footer, titles, JSON-LD |
 | Email: northshorecleaning@gmail.com | Done | All contact sections, JSON-LD |
 | Logo: NSCLOGO-HD-FINAL.png | Done | Navbar, footer, hero across all pages |
